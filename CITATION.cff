@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: 'If you use this software, please cite it as below.'
+type: software
+title: 'Reference implementation of the Verifiable Data Space (VDS) and the Verifiable Anchor Delegation (VAD)'
+abstract: >-
+  Reference implementation, test suite and benchmark harness for the Verifiable
+  Data Space (VDS) and the Verifiable Anchor Delegation (VAD): signed,
+  content-addressed and versioned objects that bind a verifiable credential to
+  the trust configuration of the Data Space it was issued under.
+authors:
+  - family-names: 'Menéndez Muñoz'
+    given-names: 'Rodrigo'
+    affiliation: 'Universidad Politécnica de Madrid'
+license: GPL-3.0-or-later
+repository-code: 'https://github.com/EunomiaUPM/vds'
+version: '0.1.0'
+keywords:
+  - Data Spaces
+  - Verifiable Data Space
+  - Verifiable Anchor Delegation
+  - Trust Configuration
+  - Decentralized Identity
+  - Verifiable Credentials
+  - Context Binding
